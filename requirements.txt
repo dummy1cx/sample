@@ -1,0 +1,13 @@
+# ML and data packages
+pandas
+numpy
+scikit-learn
+
+# Visualization and frontend
+streamlit
+matplotlib
+seaborn
+
+# model
+joblib             # for saving/loading trained models
+shap
